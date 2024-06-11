@@ -4,20 +4,33 @@ Instructions:
 Answer the following questions based on your understanding of software engineering concepts. Provide detailed explanations and examples where appropriate.
 
 Questions:
-Define Software Engineering:
+Define Software Engineering: is a brance of science that deals with design development testing and maintainance of softwares
 
 What is software engineering, and how does it differ from traditional programming?
-Software Development Life Cycle (SDLC):
+Software Development Life Cycle (SDLC):software development refer to everything creating programmes while sdlc refers to series of steps for building end user products that meet the user technical specicication and requirments
 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
-Agile vs. Waterfall Models:
+planining and analysis-this stage where youare gathering bussines requiremennts from your client
+Define requirements-this quides the development on converting the information gathertherd during planning and analysis
+Design- the original plan is elabroted into software engeering
+Development-turns the project into code that makes theproduct
+Testing-this is for quality assurance
+Deployment the product delivered to intendend user
+Mantainance-this the final stage
+
+Agile vs. Waterfall Models:agile focuses on flexibility and customer satisfication by continuously delivering  fuctional software components whike waterfall is a stetp to step method wherer each stage must be finaliseed priorto the commencement of the subsequent on
 
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
 Requirements Engineering:
 
 What is requirements engineering? Describe the process and its importance in the software development lifecycle.
-Software Design Principles:
+Software Design Principles:Requirements engineering is the discipline that involves establishing and documenting requirements.
 
+Feasibility Study.
+Requirement Elicitation and Analysis.
+Software Requirement Specification.
+Software Requirement Validation.
+Software Requirement Management.
 Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
 Testing in Software Engineering:
 
